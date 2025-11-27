@@ -44,11 +44,6 @@ export const About: React.FC = () => {
                                     suffix="Cr+"
                                     label="Assets Verified"
                                 />
-                                <AnimatedCounter
-                                    end={25}
-                                    suffix="+"
-                                    label="Professionals Trained"
-                                />
                             </div>
                         </div>
                     </div>

@@ -17,7 +17,7 @@ export const Accomplishments: React.FC = () => {
                         <div className="accomplishment-icon">🎤</div>
                         <h3 className="accomplishment-title">Training Delivered</h3>
                         <p className="accomplishment-desc">
-                            Conducted training sessions for 25+ professionals on CECL (Current Expected Credit Losses) standards.
+                            Conducted training sessions for professionals on CECL (Current Expected Credit Losses) standards.
                         </p>
                     </div>
 

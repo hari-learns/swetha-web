@@ -8,7 +8,7 @@ export const Skills: React.FC = () => {
 
     const coreCompetencies = [
         "Statutory Audit", "Internal Audit", "Tax Audit",
-        "Income Tax", "GST", "TDS Compliance", "DTAA",
+        "Income Tax", "GST", "TDS Compliance", "Financial Modelling",
         "Financial Statement Analysis", "Ratio Analysis",
         "COSO Framework", "Control Testing"
     ];
